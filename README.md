@@ -105,14 +105,14 @@ Extended Euclid                                             ![Progress](http://p
 
 Group Theory/Burnside's lemma                               ![Progress](http://progressed.io/bar/100)
 
-Inclusion/Exclusion                                         ![Progress](http://progressed.io/bar/50
+Inclusion/Exclusion                                         ![Progress](http://progressed.io/bar/50)
 
-Modular Arithmetic                                          ![Progress](http://progressed.io/bar/100
+Modular Arithmetic                                          ![Progress](http://progressed.io/bar/100)
 
-Number Thoery                                               ![Progress](http://progressed.io/bar/91
+Number Thoery                                               ![Progress](http://progressed.io/bar/91)
 
-Probability/Expected Value                                  ![Progress](http://progressed.io/bar/58
+Probability/Expected Value                                  ![Progress](http://progressed.io/bar/58)
 
 ###String
 
-Knuth-Morris-Pratt                                          ![Progress](http://progressed.io/bar/40
+Knuth-Morris-Pratt                                          ![Progress](http://progressed.io/bar/40)
